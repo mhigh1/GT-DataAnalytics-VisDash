@@ -1,5 +1,5 @@
 // JSON data url (localhost)
-const url = "../../data/samples.json";
+const url = "https://mhigh1.github.io/GT-DataAnalytics-VisDash/data/samples.json";
 
 // variable to hold studyData
 let studyData = {};
