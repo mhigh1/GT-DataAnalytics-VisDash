@@ -1,0 +1,10 @@
+th {
+    text-align: right;
+}
+th, td {
+    padding: 2px 4px;
+}
+
+.panel-body {
+    overflow: hidden;
+}
